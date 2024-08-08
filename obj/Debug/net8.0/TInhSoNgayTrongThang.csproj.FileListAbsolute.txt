@@ -1,0 +1,14 @@
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\bin\Debug\net8.0\TInhSoNgayTrongThang.exe
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\bin\Debug\net8.0\TInhSoNgayTrongThang.deps.json
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\bin\Debug\net8.0\TInhSoNgayTrongThang.runtimeconfig.json
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\bin\Debug\net8.0\TInhSoNgayTrongThang.dll
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\bin\Debug\net8.0\TInhSoNgayTrongThang.pdb
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\TInhSoNgayTrongThang.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\TInhSoNgayTrongThang.AssemblyInfoInputs.cache
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\TInhSoNgayTrongThang.AssemblyInfo.cs
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\TInhSoNgayTrongThang.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\TInhSoNgayTrongThang.dll
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\refint\TInhSoNgayTrongThang.dll
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\TInhSoNgayTrongThang.pdb
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\TInhSoNgayTrongThang.genruntimeconfig.cache
+D:\WorkSpace\C#_EX\5\TInhSoNgayTrongThang\obj\Debug\net8.0\ref\TInhSoNgayTrongThang.dll

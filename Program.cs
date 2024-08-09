@@ -8,13 +8,13 @@ namespace TinhSoNgayTrongThang
         {
             int m;
 
-            Console.Write("Nhap thang (1-12): ");
+            Console.Write("Ban muon dem so ngay cua thang nao: ");
             m = int.Parse(Console.ReadLine());
 
             switch (m)
             {
                 case 2:
-                    Console.WriteLine($"Thang {m} co the co 28 hoac 29 ngay");
+                    Console.WriteLine($"Thang {m} co 28 hoac 29 ngay");
                     break;
 
                 case 1:
